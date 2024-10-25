@@ -1,0 +1,19 @@
+.grid {
+  display: grid;
+  width: 50%;
+  
+  gap: 1px;
+}
+.box {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 40px;
+  border-radius: 5%;
+}
+.red {
+  background-color: red;
+}
+.blue {
+  background-color: blue;
+}
